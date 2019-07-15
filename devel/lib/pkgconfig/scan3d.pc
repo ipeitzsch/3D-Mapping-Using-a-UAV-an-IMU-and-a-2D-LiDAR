@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/devel
+
+Name: scan3d
+Description: Description of scan3d
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubuntu/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/devel
+
+Name: make_scan
+Description: Description of make_scan
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubuntu/catkin_ws/devel/lib 
+Requires: 
